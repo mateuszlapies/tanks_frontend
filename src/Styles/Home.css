@@ -1,0 +1,15 @@
+.cardBackground {
+    background-color: rgba(126, 123, 215, 0.2);
+}
+
+.whiteLabel {
+    color: white;
+}
+
+.login {
+    background-color: #9146FF !important;
+}
+
+.stat {
+    color: white;
+}

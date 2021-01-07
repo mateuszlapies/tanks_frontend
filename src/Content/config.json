@@ -1,0 +1,8 @@
+{
+  "prod": "",
+  "dev": {
+    "url": "http://localhost:3000",
+    "auth": "https://id.twitch.tv/oauth2/authorize?client_id=fw3lvsvqu74hzws8xyyobyte6lh944&redirect_uri=http://localhost:8080/auth&response_type=code&scope=chat:read",
+    "api": "http://localhost:8080/"
+  }
+}
